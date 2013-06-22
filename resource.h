@@ -5,6 +5,7 @@
 #define IDI_ICON1                       101
 #define IDR_MENU1                       102
 #define IDB_BITMAP1                     103
+#define IDC_TREE1						104
 
 // Next default values for new objects
 // 
